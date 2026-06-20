@@ -37,7 +37,7 @@ except ImportError:
 # ==========================================
 # Configuration (Token & Owner ID)
 # ==========================================
-TOKEN = "8642967664:AAF-lZO35IQebGvYDv6i7Jkgch3fUwzFEeY"
+TOKEN = "86467664:AAF-lZO35IQebGvYDv6i7Jkgch3fUwzFEeY"
 BASE_URL = f"https://api.telegram.org/bot{TOKEN}"
 FILE_URL = f"https://api.telegram.org/file/bot{TOKEN}/"
 
